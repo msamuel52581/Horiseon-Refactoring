@@ -5,11 +5,9 @@ This Horiseon Refactoring was done to follow accessibility standards so that our
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 To use this Horiseon page you can navigate different sections.
 
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](assets/images/01-html-css-git-homework-demo.png)
 
 ## Link
 
